@@ -1,0 +1,37 @@
+indicator_code,indicator_name,unit,country_iso3,country_name,income_level,latest_year,value,years_behind_latest,rank_highest_first
+NY.GDP.MKTP.CD,GDP (current US$),current US$,USA,United States,High income,2024,29298013000000,0,1
+NY.GDP.MKTP.CD,GDP (current US$),current US$,DEU,Germany,High income,2024,4685592577804.69,0,2
+NY.GDP.MKTP.CD,GDP (current US$),current US$,JPN,Japan,High income,2024,4190008188358.57,0,3
+NY.GDP.MKTP.CD,GDP (current US$),current US$,IND,India,Lower middle income,2024,3760813470500.86,0,4
+NY.GDP.MKTP.CD,GDP (current US$),current US$,GBR,United Kingdom,High income,2024,3695539513534.15,0,5
+NY.GDP.MKTP.CD,GDP (current US$),current US$,CAN,Canada,High income,2024,2270076189683.46,0,6
+NY.GDP.MKTP.CD,GDP (current US$),current US$,BRA,Brazil,Upper middle income,2024,2185821610689.31,0,7
+NY.GDP.MKTP.CD,GDP (current US$),current US$,MEX,Mexico,Upper middle income,2024,1830489311088.89,0,8
+NY.GDP.MKTP.CD,GDP (current US$),current US$,ZAF,South Africa,Upper middle income,2024,401144998373.585,0,9
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,USA,United States,High income,2024,86169.664158,0,1
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,DEU,Germany,High income,2024,56103.732318,0,2
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,CAN,Canada,High income,2024,55015.706692,0,3
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,GBR,United Kingdom,High income,2024,53341.313109,0,4
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,JPN,Japan,High income,2024,33797.101429,0,5
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,MEX,Mexico,Upper middle income,2024,13988.042375,0,6
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,BRA,Brazil,Upper middle income,2024,10310.548697,0,7
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,ZAF,South Africa,Upper middle income,2024,6267.186814,0,8
+NY.GDP.PCAP.CD,GDP per capita (current US$),current US$,IND,India,Lower middle income,2024,2591.991661,0,9
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,JPN,Japan,High income,2024,84.036341,0,1
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,CAN,Canada,High income,2024,82.108049,0,2
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,GBR,United Kingdom,High income,2024,81.386854,0,3
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,DEU,Germany,High income,2024,80.792683,0,4
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,USA,United States,High income,2024,78.890244,0,5
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,BRA,Brazil,Upper middle income,2024,76.023,0,6
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,MEX,Mexico,Upper middle income,2024,75.264,0,7
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,IND,India,Lower middle income,2024,72.235,0,8
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",years,ZAF,South Africa,Upper middle income,2024,66.312,0,9
+SP.POP.TOTL,"Population, total",people,IND,India,Lower middle income,2024,1450935791,0,1
+SP.POP.TOTL,"Population, total",people,USA,United States,High income,2024,340003797,0,2
+SP.POP.TOTL,"Population, total",people,BRA,Brazil,Upper middle income,2024,211998573,0,3
+SP.POP.TOTL,"Population, total",people,MEX,Mexico,Upper middle income,2024,130861007,0,4
+SP.POP.TOTL,"Population, total",people,JPN,Japan,High income,2024,123975371,0,5
+SP.POP.TOTL,"Population, total",people,DEU,Germany,High income,2024,83516593,0,6
+SP.POP.TOTL,"Population, total",people,GBR,United Kingdom,High income,2024,69281000,0,7
+SP.POP.TOTL,"Population, total",people,ZAF,South Africa,Upper middle income,2024,64007187,0,8
+SP.POP.TOTL,"Population, total",people,CAN,Canada,High income,2024,41262329,0,9

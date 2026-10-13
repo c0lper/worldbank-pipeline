@@ -1,0 +1,37 @@
+country_iso3,country_name,indicator_code,indicator_name,years_expected,years_available,completeness_pct,missing_years,coverage_status
+BRA,Brazil,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+CAN,Canada,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+DEU,Germany,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+GBR,United Kingdom,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+IND,India,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+JPN,Japan,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+MEX,Mexico,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+USA,United States,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+ZAF,South Africa,NY.GDP.MKTP.CD,GDP (current US$),7,7,100,,complete
+BRA,Brazil,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+CAN,Canada,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+DEU,Germany,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+GBR,United Kingdom,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+IND,India,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+JPN,Japan,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+MEX,Mexico,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+USA,United States,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per capita (current US$),7,7,100,,complete
+BRA,Brazil,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+CAN,Canada,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+DEU,Germany,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+GBR,United Kingdom,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+IND,India,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+JPN,Japan,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+MEX,Mexico,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+USA,United States,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+ZAF,South Africa,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",7,7,100,,complete
+BRA,Brazil,SP.POP.TOTL,"Population, total",7,7,100,,complete
+CAN,Canada,SP.POP.TOTL,"Population, total",7,7,100,,complete
+DEU,Germany,SP.POP.TOTL,"Population, total",7,7,100,,complete
+GBR,United Kingdom,SP.POP.TOTL,"Population, total",7,7,100,,complete
+IND,India,SP.POP.TOTL,"Population, total",7,7,100,,complete
+JPN,Japan,SP.POP.TOTL,"Population, total",7,7,100,,complete
+MEX,Mexico,SP.POP.TOTL,"Population, total",7,7,100,,complete
+USA,United States,SP.POP.TOTL,"Population, total",7,7,100,,complete
+ZAF,South Africa,SP.POP.TOTL,"Population, total",7,7,100,,complete

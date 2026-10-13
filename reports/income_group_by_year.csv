@@ -1,0 +1,85 @@
+income_level,indicator_code,indicator_name,year,aggregation,countries_in_group,countries_reporting,group_value,coverage_status,countries
+High income,NY.GDP.MKTP.CD,GDP (current US$),2018,sum,5,5,34488601683085.258,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.MKTP.CD,GDP (current US$),2018,sum,1,1,2702929641648.74,complete,IND
+Upper middle income,NY.GDP.MKTP.CD,GDP (current US$),2018,sum,3,3,3578494804887.1567,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.MKTP.CD,GDP (current US$),2019,sum,5,5,35365070826690.39,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.MKTP.CD,GDP (current US$),2019,sum,1,1,2835606256558.19,complete,IND
+Upper middle income,NY.GDP.MKTP.CD,GDP (current US$),2019,sum,3,3,3566724441290.229,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.MKTP.CD,GDP (current US$),2020,sum,5,5,34885565945905.9,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.MKTP.CD,GDP (current US$),2020,sum,1,1,2674851578587.27,complete,IND
+Upper middle income,NY.GDP.MKTP.CD,GDP (current US$),2020,sum,3,3,2935146653887.345,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.MKTP.CD,GDP (current US$),2021,sum,5,5,38523767613986.59,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.MKTP.CD,GDP (current US$),2021,sum,1,1,3167270623260.47,complete,IND
+Upper middle income,NY.GDP.MKTP.CD,GDP (current US$),2021,sum,3,3,3407203150114.208,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.MKTP.CD,GDP (current US$),2022,sum,5,5,40085419049305.125,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.MKTP.CD,GDP (current US$),2022,sum,1,1,3249938492013.47,complete,IND
+Upper middle income,NY.GDP.MKTP.CD,GDP (current US$),2022,sum,3,3,3826454709394.585,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.MKTP.CD,GDP (current US$),2023,sum,5,5,42375969292588.71,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.MKTP.CD,GDP (current US$),2023,sum,1,1,3500906030644.76,complete,IND
+Upper middle income,NY.GDP.MKTP.CD,GDP (current US$),2023,sum,3,3,4366982837894.112,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.MKTP.CD,GDP (current US$),2024,sum,5,5,44139229469380.875,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.MKTP.CD,GDP (current US$),2024,sum,1,1,3760813470500.86,complete,IND
+Upper middle income,NY.GDP.MKTP.CD,GDP (current US$),2024,sum,3,3,4417455920151.785,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,weighted_avg,5,5,53753.554069,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,weighted_avg,1,1,1966.254552,complete,IND
+Upper middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,weighted_avg,3,3,9192.268705,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,weighted_avg,5,5,54897.769438,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,weighted_avg,1,1,2041.428637,complete,IND
+Upper middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,weighted_avg,3,3,9080.109472,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,weighted_avg,5,5,54021.773811,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,weighted_avg,1,1,1907.042516,complete,IND
+Upper middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,weighted_avg,3,3,7411.569561,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,weighted_avg,5,5,59616.254881,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,weighted_avg,1,1,2239.613844,complete,IND
+Upper middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,weighted_avg,3,3,8545.759267,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,weighted_avg,5,5,61775.822136,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,weighted_avg,1,1,2279.981457,complete,IND
+Upper middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,weighted_avg,3,3,9535.196444,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,weighted_avg,5,5,64880.966548,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,weighted_avg,1,1,2434.448263,complete,IND
+Upper middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,weighted_avg,3,3,10806.879162,complete,"BRA,MEX,ZAF"
+High income,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,weighted_avg,5,5,67076.910992,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,weighted_avg,1,1,2591.991661,complete,IND
+Upper middle income,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,weighted_avg,3,3,10857.254213,complete,"BRA,MEX,ZAF"
+High income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,weighted_avg,5,5,80.484745,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,weighted_avg,1,1,70.415,complete,IND
+Upper middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,weighted_avg,3,3,73.71514,complete,"BRA,MEX,ZAF"
+High income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,weighted_avg,5,5,80.669349,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,weighted_avg,1,1,70.746,complete,IND
+Upper middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,weighted_avg,3,3,73.922275,complete,"BRA,MEX,ZAF"
+High income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,weighted_avg,5,5,79.599671,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,weighted_avg,1,1,70.156,complete,IND
+Upper middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,weighted_avg,3,3,71.776241,complete,"BRA,MEX,ZAF"
+High income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,weighted_avg,5,5,79.232873,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,weighted_avg,1,1,67.282,complete,IND
+Upper middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,weighted_avg,3,3,70.284163,complete,"BRA,MEX,ZAF"
+High income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,weighted_avg,5,5,79.698981,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,weighted_avg,1,1,71.698,complete,IND
+Upper middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,weighted_avg,3,3,73.119928,complete,"BRA,MEX,ZAF"
+High income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,weighted_avg,5,5,80.300365,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,weighted_avg,1,1,72.003,complete,IND
+Upper middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,weighted_avg,3,3,74.079109,complete,"BRA,MEX,ZAF"
+High income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,weighted_avg,5,5,80.565853,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,weighted_avg,1,1,72.235,complete,IND
+Upper middle income,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,weighted_avg,3,3,74.251174,complete,"BRA,MEX,ZAF"
+High income,SP.POP.TOTL,"Population, total",2018,sum,5,5,641605979,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.POP.TOTL,"Population, total",2018,sum,1,1,1374659064,complete,IND
+Upper middle income,SP.POP.TOTL,"Population, total",2018,sum,3,3,389293973,complete,"BRA,MEX,ZAF"
+High income,SP.POP.TOTL,"Population, total",2019,sum,5,5,644198684,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.POP.TOTL,"Population, total",2019,sum,1,1,1389030312,complete,IND
+Upper middle income,SP.POP.TOTL,"Population, total",2019,sum,3,3,392806326,complete,"BRA,MEX,ZAF"
+High income,SP.POP.TOTL,"Population, total",2020,sum,5,5,645768613,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.POP.TOTL,"Population, total",2020,sum,1,1,1402617695,complete,IND
+Upper middle income,SP.POP.TOTL,"Population, total",2020,sum,3,3,396022277,complete,"BRA,MEX,ZAF"
+High income,SP.POP.TOTL,"Population, total",2021,sum,5,5,646195701,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.POP.TOTL,"Population, total",2021,sum,1,1,1414203896,complete,IND
+Upper middle income,SP.POP.TOTL,"Population, total",2021,sum,3,3,398701045,complete,"BRA,MEX,ZAF"
+High income,SP.POP.TOTL,"Population, total",2022,sum,5,5,648885238,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.POP.TOTL,"Population, total",2022,sum,1,1,1425423212,complete,IND
+Upper middle income,SP.POP.TOTL,"Population, total",2022,sum,3,3,401297942,complete,"BRA,MEX,ZAF"
+High income,SP.POP.TOTL,"Population, total",2023,sum,5,5,653134063,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.POP.TOTL,"Population, total",2023,sum,1,1,1438069596,complete,IND
+Upper middle income,SP.POP.TOTL,"Population, total",2023,sum,3,3,404092872,complete,"BRA,MEX,ZAF"
+High income,SP.POP.TOTL,"Population, total",2024,sum,5,5,658039090,complete,"CAN,DEU,GBR,JPN,USA"
+Lower middle income,SP.POP.TOTL,"Population, total",2024,sum,1,1,1450935791,complete,IND
+Upper middle income,SP.POP.TOTL,"Population, total",2024,sum,3,3,406866767,complete,"BRA,MEX,ZAF"

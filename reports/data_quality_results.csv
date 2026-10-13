@@ -1,0 +1,10 @@
+check_name,severity,status,failing_rows,details
+dim_country_key_is_unique,error,pass,0,
+fact_business_key_is_unique,error,pass,0,
+fact_has_matching_dimensions,error,pass,0,
+fact_is_traceable_to_raw_response,error,pass,0,
+fact_value_status_matches_value,error,pass,0,
+value_within_valid_range,error,pass,0,
+consistency_gdp_per_capita_vs_gdp_over_population,warn,pass,0,
+every_expected_combination_was_returned,warn,pass,0,
+missing_share_below_threshold,warn,pass,0,
